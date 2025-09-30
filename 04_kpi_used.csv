@@ -1,0 +1,9 @@
+kpi
+concentric_duration_[ms]
+concentric_impulse_[n_s]
+concentric_impulse_(abs)___bm_[n_s_kg]
+contact_time_[s]
+eccentric_duration_[ms]
+eccentric:concentric_duration_[%]
+peak_takeoff_force_[n]
+peak_first_landing_force_[n]

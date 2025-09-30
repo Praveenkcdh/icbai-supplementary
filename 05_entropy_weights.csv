@@ -1,0 +1,9 @@
+KPI,weight
+concentric_duration_[ms],0.11395711272627734
+concentric_impulse_[n_s],0.19422171779992603
+concentric_impulse_(abs)___bm_[n_s_kg],0.10515126307379953
+contact_time_[s],0.07290213556647089
+eccentric_duration_[ms],0.06665962211623463
+eccentric:concentric_duration_[%],0.024303879178036863
+peak_takeoff_force_[n],0.1030450215955719
+peak_first_landing_force_[n],0.3197592479436828
