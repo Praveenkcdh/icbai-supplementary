@@ -1,4 +1,4 @@
-# Athlete Ranking from Force Plate Data: Entropy-Weighted TOPSIS with LLM Insights — Supplementary
+# Force Plate–Based Athlete Ranking: Integrating TOPSIS and LLM Insights — Supplementary
 
 **Authors:** Praveen D. Chougale (IIT Bombay, Koita Centre for Digital Health), Usha Ananthakumar (SJMSOM, IIT Bombay)  
 **Status:** Manuscript under submission
