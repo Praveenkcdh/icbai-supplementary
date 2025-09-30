@@ -10,7 +10,6 @@ This repository hosts public-facing supplementary materials for the paper above.
 - `data/` – (optional) processed, de-identified tables (no raw force-plate files)
 - `supplementary/` – additional notes/summaries referenced in the paper
 
-> **Not included:** analysis code and **raw** force-plate data.
 
 ## Supplementary items
 - **Figure 1 — Criterion Weights Distribution** (`figures/weights_bar.pdf`)
